@@ -791,7 +791,7 @@ export default function Home() {
                   <h3 className="text-xl font-black text-blue-400">▶️ วิดีโอแนะนำบทเรียน</h3>
                   <button onClick={() => setShowLessonTutorial(false)} className="rounded-lg bg-red-900 px-3 py-1 text-xs font-bold hover:bg-red-700">✖ ปิด</button>
                 </div>
-                <video src="/ความปลอดภัยทางไซเบอร์.MP4" controls autoPlay muted playsInline className="w-full rounded-xl border border-gray-800 bg-black shadow-lg" />
+                <video src="/cyber-video.mp4" controls autoPlay muted playsInline className="w-full rounded-xl border border-gray-800 bg-black shadow-lg" />
                 <p className="mt-4 text-sm text-gray-300 text-center">วิดีโอสอนการใช้งานฟีเจอร์บทเรียนไซเบอร์เบื้องต้น</p>
               </div>
             </div>
